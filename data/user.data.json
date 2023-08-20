@@ -1,0 +1,12 @@
+{
+  "create-user": {
+    "name": "danggakom",
+    "email": "danggakom3@gmail.com",
+    "password": "angga010899"
+  },
+  "update-user": {
+    "name": "danggakomreborn",
+    "email": "danggakom3@gmail.com"
+  },
+  "fail-get-user": "8bb0726d-c358-42e1-96ef"
+}

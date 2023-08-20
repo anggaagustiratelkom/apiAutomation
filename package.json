@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "mocha suit/auth.suit.js && mocha suit/user.suit.js && mocha suit/customer.suit.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

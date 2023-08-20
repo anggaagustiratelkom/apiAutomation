@@ -1,0 +1,15 @@
+{
+  "create-customer": {
+    "name": "Budi",
+    "phone": "081234567890",
+    "address": "Bandoeng",
+    "description": "Budi anak Pak Edi"
+  },
+  "update-customer": {
+    "name": "Budi Doremi",
+    "phone": "08987654321",
+    "address": "Bandung",
+    "description": "Pelanggan VIP"
+  },
+  "fail-get-customer": "8bb0726d-c358-42e1-96ef"
+}
